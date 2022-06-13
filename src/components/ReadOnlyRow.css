@@ -1,0 +1,25 @@
+.box{
+    background-color: rgb(125, 157, 175);
+    margin: .4rem;
+    padding: 1rem .8rem;
+    border-top: 6px solid deeppink;
+    border-radius: 6px;
+}
+
+.delete-btn{
+    padding: .4rem 3rem;
+    background-color: deeppink;
+    color: #fff;
+    outline: none;
+    border: none;
+    border-radius: 6px;
+    margin-top: 10px;
+    width: 100%;
+    cursor: pointer;
+}
+.delete-btn:hover{
+ background-color: rgb(66, 59, 104);
+}
+.box p{
+    padding: 20px;
+}

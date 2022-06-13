@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "ProductName": "Apple",
+    "modal": "Air Laptop: Apple M1 Gold",
+    "Price": "₹92,900",
+    "Review": "4.7 out of 5"
+  },
+  {
+    "id": 2,
+    "ProductName": "Apple",
+    "modal": "Apple MacBook Pro Space Grey",
+    "Price": "₹1,94,900",
+    "Review": "4.7 out of 5"
+  },
+  {
+    "id": 3,
+    "ProductName": "Apple",
+    "modal": "Apple MacBook Space Grey",
+    "Price": "₹1,25,990",
+    "Review": "4.6 out of 5"
+  },
+  {
+    "id": 4,
+    "ProductName": "Apple",
+    "modal": "Apple MacBook Space Grey",
+    "Price": "₹1,94,900",
+    "Review": "4.7 out of 5"
+  },
+  {
+    "id": 5,
+    "ProductName": "Apple",
+    "modal": "Apple MacBook Air  Gold",
+    "Price": "₹92,900",
+    "Review": "4.7 out of 5"
+  }
+]
